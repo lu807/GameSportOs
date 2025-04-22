@@ -1,5 +1,5 @@
 # GameSportOs
-## 🇪🇸 Español
+## 🇪🇸 Español | 🇬🇧 **English**
 
 ### Descripción 📄
 GameSportOS Launcher es una interfaz gráfica de escritorio desarrollada en Python con Tkinter que proporciona acceso rápido a diversas aplicaciones útiles:
@@ -53,7 +53,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 
 ---
-##  English
+### 🇬🇧 **English**
 GameSportOS Launcher is a desktop graphical interface developed in Python with Tkinter that provides quick access to various useful applications:
 
 1) Custom terminal with dark theme
